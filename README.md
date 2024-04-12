@@ -26,8 +26,11 @@ This Python script implements a dialog-based ChatBot using the DialoGPT model fr
 
 # Dependencies:
 Python 3.x
+
 **numpy**: For array manipulation and random sampling.
+
 **torch**: For tensor operations and deep learning functionality.
+
 **transformers**: For accessing pre-trained language models from the Hugging Face model hub.
 
 
